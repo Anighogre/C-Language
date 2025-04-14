@@ -34,7 +34,7 @@ printf("%d\n", "a"=="a"); // ans->in online compiler and DevC++ --> 1 and in Tur
 
 printf("<------X------>\n");
 
-//Operator precedence / Operator priority
+// Operator precedence / Operator priority
 
 printf("%d\n", 5+3/2==4); // ans->0(3/2=1 and 5+1=6--> 6==4-->0)
 printf("%d\n", (5+3)/2==4); // ans->1(5+3=8 and 8/2=4 so 4==4-->1)
